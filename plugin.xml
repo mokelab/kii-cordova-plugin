@@ -45,8 +45,8 @@
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
       </config-file>
-      <framework src="com.google.android.gms:play-services-gcm:7.5.0" />
-      <framework src="com.android.support:support-v4:22.2.1" />
+      <framework src="com.google.android.gms:play-services-gcm:11.0.2" />
+      <framework src="com.android.support:support-v4:26.0.0-beta2" />
 
       <config-file target="res/xml/config.xml" parent="/*">
         <feature name="KiiPush">
